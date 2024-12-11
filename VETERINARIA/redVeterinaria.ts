@@ -1,7 +1,6 @@
 import { Proveedores } from "./proveedores";
 import { Veterinaria } from "./veterinarias";
 
-
 export class RedVeterinarias {
     private veterinarias: Veterinaria[] = [];
     private proveedores: Proveedores[] = [];
